@@ -1,0 +1,211 @@
+"product_id","product_name","category_id","category","cost_price","selling_price","shelf_life"
+"P1","Ureka Elite Dental Chair","C_1","Dental_Chair","220000","380000",8
+"P2","Ureka Dental Chair","C_1","Dental_Chair","180000","300000",8
+"P3","Elite Star Dental Chair","C_1","Dental_Chair","200000","350000",8
+"P4","Star Dental Chair","C_1","Dental_Chair","160000","280000",8
+"P5","Flare Dental Chair","C_1","Dental_Chair","150000","250000",8
+"P6","Saevo S5000","C_1","Dental_Chair","350000","600000",8
+"P7","Saevo S4000","C_1","Dental_Chair","300000","520000",8
+"P8","Saevo S300","C_1","Dental_Chair","240000","420000",8
+"P9","Saevo S200","C_1","Dental_Chair","200000","350000",8
+"P10","Anthos A7 plus","C_1","Dental_Chair","500000","900000",8
+"P11","Anthos A3 plus","C_1","Dental_Chair","350000","650000",8
+"P12","Dynamic Portable Dental Chair","C_1","Dental_Chair","60000","120000",8
+"P13","Runyes Feng 23L Touch Screen","C_2","Dental Autoclaves","120000","220000",7
+"P14","Runyes Rapiclave 5L Autoclave","C_2","Dental Autoclaves","60000","120000",7
+"P15","Melag Vacuclave 550 Autoclave","C_2","Dental Autoclaves","250000","450000",7
+"P16","Melag Vacuclave 123 Class B Autoclave","C_2","Dental Autoclaves","180000","320000",7
+"P17","Melag Vacuclave 105Autoclave","C_2","Dental Autoclaves","140000","250000",7
+"P18","Dental WaterDistiller","C_2","Dental Autoclaves","8000","18000",7
+"P19","Runyes Feng 23LClass B Autoclave","C_2","Dental Autoclaves","65000","125000",7
+"P20","Dynamic Compressor Suction System","C_3","Dental Suction","80000","150000",5
+"P21","VMax
+Suction","C_3","Dental Suction","60000","120000",5
+"P22","Dynamic Compressor
+Suction DAS001","C_4","Dental Compressors","70000","130000",3
+"P23","Gnatus BioQualy 3HP Air Compressor","C_4","Dental Compressors","100000","180000",3
+"P24","Xpect Vision Size 1.5Intraoral Sensor","C_5","Imaging","45000","85000",5
+"P25","Xpect Vision Size 1Intraoral Sensor","C_5","Imaging","120000","220000",5
+"P26","Carestream RVGCS 5200","C_5","Imaging","50000","100000",5
+"P27","Runyes Portable Dental X-Ray (Gun-Type)","C_5","Imaging","60000","120000",8
+"P28","RAYSCAN ? 3D Dental CBCT","C_5","Imaging","120000","220000",8
+"P29","Genoray PAPAYA CUST OPG","C_5","Imaging","1200000","2000000",8
+"P30","Genoray PAPAYA 3D PLUS CBCT","C_5","Imaging","1800000","3000000",8
+"P31","Genoray PAPAYA 3D Premium Plus CBCT","C_5","Imaging","2000000","3500000",8
+"P32","Genoray Port XIII Portable X-Ray","C_5","Imaging","2200000","3510000",8
+"P33","Genoray Port X-IVe Portable X-Ray","C_5","Imaging","2003000","3506000",8
+"P34","Gnatus Timex 70E ACX-ray","C_5","Imaging","200000","400000",8
+"P36","Biolase Soft Tissue Laser  Epic X","C_7","Dental Lasers","141986","139333",7
+"P37","BIOLASE Waterlase iPlus All Tissue Laser","C_7","Dental Lasers","91394","161512",7
+"P38","NSK FX 65 Straight Handpiece","C_8","Dental HandPeice","35000","60000",7
+"P39","NSK FX 25 Contra Angle Handpiece","C_8","Dental HandPeice","30000","55000",7
+"P40","NSK FX 22 Contra-Angle Handpiece","C_8","Dental HandPeice","31299","49732",7
+"P41","NSK Pana Air PAF-SU B2 Handpiece","C_8","Dental HandPeice","35205","47996",7
+"P42","NSK Pana Air PAF-S B2 Handpiece","C_8","Dental HandPeice","30174","58197",7
+"P43","NSK FX Plus With ARV Handpiece","C_8","Dental HandPeice","39404","47776",7
+"P44","NSK Ti-Max X SG20L Handpiece","C_8","Dental HandPeice","37256","42745",7
+"P45","NSK Ti-Max X DSG20L Handpiece","C_8","Dental HandPeice","37538","42442",7
+"P46","NSK S-Max SG20 Handpiece","C_8","Dental HandPeice","34934","46171",7
+"P47","NSK S-Max SG20M Handpiece","C_8","Dental HandPeice","37713","43077",7
+"P48","NSK MPASHead","C_8","Dental HandPeice","32664","49502",7
+"P49","NSK S-Max M65 Straight Handpiece","C_8","Dental HandPeice","37846","55827",7
+"P50","NSK S-Max M95 Handpiece","C_8","Dental HandPeice","38657","47689",7
+"P51","NSK S-Max M25 Low Speed Handpiece","C_8","Dental HandPeice","35575","47477",7
+"P52","NSK S-Max Pico Non Optic Handpiece","C_8","Dental HandPeice","30142","53743",7
+"P53","NSK S-Max Pico Optic Handpiece","C_8","Dental HandPeice","30320","48653",7
+"P54","NSK Dyna LED Handpiece","C_8","Dental HandPeice","33530","52009",7
+"P55","Woodpecker HP33 Air Rotor Handpiece","C_8","Dental HandPeice","38996","42563",7
+"P56","Tornado Mini Head Handpiece","C_8","Dental HandPeice","38847","58783",7
+"P57","Tornado Standard Head Handpiece","C_8","Dental HandPeice","32278","46298",7
+"P58","Tornado Super Torque Push Button","C_8","Dental HandPeice","36541","56195",7
+"P59","Tornado Super Torque Handpiece","C_8","Dental HandPeice","33688","54509",7
+"P60","Tornado Air Motor Dental Handpiece","C_8","Dental HandPeice","39439","46011",7
+"P61","Tornado Contra-Angle Handpiece","C_8","Dental HandPeice","39114","43241",7
+"P62","Tornado Straight Handpiece","C_8","Dental HandPeice","33972","45184",7
+"P63","Hi-Clean Oil Spray Bottle","C_8","Dental HandPeice","300","800",8
+"P64","Tealth 45 Degree High Speed Air Rotor","C_8","Dental HandPeice","12000","20000",7
+"P65","Tealth High Speed Torque Head Air Rotor Handpiece","C_8","Dental HandPeice","14062","19981",7
+"P66","Tealth Push Type Contra Angle Low Speed Handpiece","C_8","Dental HandPeice","13021","21341",7
+"P67","Tealth Latch Type Contra Angle Low Speed Handpiece","C_8","Dental HandPeice","11921","18725",7
+"P68","Tealth LED Mini Head High Speed Air Rotor Handpiece","C_8","Dental HandPeice","10459","18297",7
+"P69","Tealth LED Standard Head High Speed Air Rotor Handpiece","C_8","Dental HandPeice","10825","21775",7
+"P70","Tealth Mini Head High Speed Air Rotor Handpiece","C_8","Dental HandPeice","10585","20127",7
+"P71","Tealth 1:5 Fiber Optic Contra AngleHandpiece","C_8","Dental HandPeice","14751","18532",7
+"P72","Tealth 20:1 LED Surgical Contra Angle Low Speed Handpiece","C_8","Dental HandPeice","13667","18383",7
+"P73","Tealth 20:1 Surgical Contra Angle Low Speed Handpiece","C_8","Dental HandPeice","10939","19077",7
+"P74","Tealth Air Motor for Straight and Contra Angle Handpiece","C_8","Dental HandPeice","11789","20816",7
+"P75","Tealth Contra Angle Low SpeedHandpiece","C_8","Dental HandPeice","14816","19109",7
+"P76","Tealth External Irrigation Straight HeadLow SpeedHandpiece","C_8","Dental HandPeice","10469","19162",7
+"P77","Tealth External Irrigation Surgical Straight Head Low SpeedHandpiece","C_8","Dental HandPeice","10482","20495",7
+"P78","Tealth Internal Irrigation Fiber Optic Straight Head Low Speed Handpiece","C_8","Dental HandPeice","11470","20404",7
+"P79","Tealth Internal Irrigation Straight Head Low Speed Handpiece","C_8","Dental HandPeice","10181","19029",7
+"P80","CSM Implants Submerged III","C_9","Implant Uni-verse","101056","259885",8
+"P82","Coxo PTMaster","C_9","Implant Uni-verse","250000","450000",8
+"P83","Coxo ImplantActivator","C_9","Implant Uni-verse","180000","350000",8
+"P85","SurgicalKit","C_9","Implant Uni-verse","226371","586022",8
+"P86","Osseotouch Magnetic Mallet","C_9","Implant Uni-verse","200201","509127",8
+"P87","Yahope3D-Optix","C_9","Implant Uni-verse","217340","409212",8
+"P88","iCHECK Implant Stability Meter","C_9","Implant Uni-verse","244357","445446",8
+"P89","iD1 lmplantLocator","C_9","Implant Uni-verse","234069","417524",8
+"P90","iT3 Dental Implant Torque Wrench","C_9","Implant Uni-verse","239827","527760",8
+"P91","EMS Airflow Prophylaxis Master","C_9","Implant Uni-verse","202633","485041",8
+"P100","NSKViva Ace","C_10","Physiodispensor Unit","127636","339091",8
+"P101","Helios 680 Intraoral Scanner","C_11","Intraoral Scanner","321952","408905",5
+"P102","Trios 5 IntraoralScanner","C_11","Intraoral Scanner","318155","455698",5
+"P103","Trios 4 IntraoralScanner","C_11","Intraoral Scanner","285947","421291",5
+"P104","Trios 3 Color Pod Intraoral Scanner","C_11","Intraoral Scanner","281538","532252",5
+"P105","3ShapeTRIOS 3","C_11","Intraoral Scanner","330232","545663",8
+"P106","EliteIntraoral Scanner","C_11","Intraoral Scanner","274770","487302",5
+"P107","Aoralscan LyncIntraoral Scanner","C_11","Intraoral Scanner","250000","450000",5
+"P108","Aoralscan 3 Neo Intraoral Scanner","C_11","Intraoral Scanner","344621","1125682",5
+"P109","Aoralscan 3 Intraoral Scanner","C_11","Intraoral Scanner","800000","1400000",5
+"P110","ioConnect By TruAbutment","C_11","Intraoral Scanner","300000","550000",8
+"P111","Trios Move+ Intraoral Scanner","C_11","Intraoral Scanner","600000","1000000",5
+"P112","Metismile Dental Face Scanner","C_11","Intraoral Scanner","300355","1053263",5
+"P113","Shinning 3D E-Motion Workstation","C_11","Intraoral Scanner","395583","712565",8
+"P114","Aoralscan 2 Intraoral Scanner","C_11","Intraoral Scanner","379389","1294093",5
+"P115","Shining 3D MetiSmile Face Scanner","C_12","Face Scanner","395327","940829",5
+"P116","Shining 3D AoralScan 3 NEO Intraoral Scanner","C_12","Face Scanner","375252","546916",5
+"P117","Shining 3D AoralScan 3 Intraoral Scanner","C_12","Face Scanner","369488","968526",5
+"P118","Shining 3D AoralScan 2 Intraoral Scanner","C_12","Face Scanner","391691","773816",5
+"P119","3Shape F8 Dental Lab Scanner","C_13","Dental Lab Scanner","500000","1000000",5
+"P120","3Shape E2 Dental Lab Scanner","C_13","Dental Lab Scanner","566438","1064731",5
+"P121","3Shape E3 Dental Lab Scanner","C_13","Dental Lab Scanner","542772","1067300",5
+"P122","3Shape E4 Dental lab Scanner","C_13","Dental Lab Scanner","503453","1003448",5
+"P123","Shinning 3D Autoscan DS EX Pro (C)","C_13","Dental Lab Scanner","525301","1018443",6
+"P124","Shining 3D AutoScan DS EX Pro(H)","C_13","Dental Lab Scanner","559890","1033283",6
+"P125","Neomill Dental Milling Machine","C_14","Dental Milling Machine","1572810","2556922",9
+"P126","Zotion T20 Dental Milling Machine","C_14","Dental Milling Machine","1595704","2613102",9
+"P127","Roland DWX-53D Dental Milling Machine","C_14","Dental Milling Machine","1531103","2641955",9
+"P128","Roland DWX-53 DC Milling Machine","C_14","Dental Milling Machine","1500000","2500000",9
+"P129","Roland DWX-52D Plus 5-Axis Milling Machine","C_14","Dental Milling Machine","1564089","2587024",9
+"P130","Roland DWX 52 Di Plus Milling Machine","C_14","Dental Milling Machine","1556115","2520954",9
+"P131","ROLAND DWX 52 DCI Plus Milling Machine","C_14","Dental Milling Machine","1561501","2577398",9
+"P132","Arum 5x-200 Milling Machine","C_14","Dental Milling Machine","2000000","3500000",9
+"P133","Arum 5x-300 Pro Milling Machine","C_14","Dental Milling Machine","2058062","3481169",9
+"P134","Arum 5x-450 Milling Machine","C_14","Dental Milling Machine","2064395","3491964",9
+"P135","Arum 5x-500 Dental Milling Machine","C_14","Dental Milling Machine","2074725","3415580",9
+"P136","Arum 5x-500 L Milling Machine","C_14","Dental Milling Machine","2066161","3439656",9
+"P137","Woodpecker DTE O-Light Plus Unit","C_15","Light Cure Unit","2000","6000",8
+"P138","Woodpecker DTE O-LIGHT Cure Unit","C_15","Light Cure Unit","1979","6048",8
+"P139","Ultra Cure 1 Sec Curing Unit","C_15","Light Cure Unit","1998","5831",8
+"P140","Tulip Digital LED Curing Light","C_15","Light Cure Unit","2037","5972",8
+"P141","NSK NLX Nano Portable Micromotor System","C_16","Dental Micromotor","20000","45000",7
+"P142","NSK NLZE Dental Electric Micromotor","C_16","Dental Micromotor","20802","43488",7
+"P143","Micro NX Clinical Dental Electric Micromotor","C_16","Dental Micromotor","20922","45212",7
+"P144","Micro NX Micromotor (Table Top)","C_16","Dental Micromotor","20345","45598",7
+"P145","Micro NX Micromotor (Chair Inbuilt)","C_16","Dental Micromotor","19513","44804",7
+"P146","ClinicalMicroMotor","C_16","Dental Micromotor","19675","43975",7
+"P147","NSK Endo Mate DT Endomotor","C_17","Endomotors","25000","60000",5
+"P148","NSK Endo Mate TC2 Endomotor","C_17","Endomotors","25885","58043",5
+"P149","Woodpecker Endoradar Pro","C_17","Endomotors","23805","59012",5
+"P150","Woodpecker Endomotor","C_17","Endomotors","24473","59907",5
+"P151","Stream X","C_17","Endomotors","25824","60044",5
+"P152","BR Rap Endomotor","C_17","Endomotors","23824","58156",5
+"P153","Mini Apex Locator","C_17","Endomotors","24458","60229",5
+"P154","BR Touch","C_17","Endomotors","23792","58545",5
+"P155","CoxoSurgic-X","C_18","Physiodispensor and Piezosurgery Units","625610","736225",8
+"P156","Piezo-X Advanced Piezosurgery Unit","C_18","Physiodispensor and Piezosurgery Units","459949","481281",8
+"P157","NSK Physiodispensor Surgic AP 2","C_18","Physiodispensor and Piezosurgery Units","518769","748662",8
+"P158","NSK Physiodispenser Surgic Pro 2","C_18","Physiodispensor and Piezosurgery Units","405369","842461",8
+"P159","Advance Piezosurgery Unit  Surgery X","C_18","Physiodispensor and Piezosurgery Units","596531","362890",8
+"P160","Implant Motor  Implant-X","C_18","Physiodispensor and Piezosurgery Units","559542","832695",8
+"P161","Woodpecker Ultrasurgery LED","C_18","Physiodispensor and Piezosurgery Units","637605","515890",8
+"P162","NSKVarioSurg 4","C_18","Physiodispensor and Piezosurgery Units","593032","737399",8
+"P164","Anycubic Standard 3D Printing Resin","C_19","Lab Consumables","8807","33121",2
+"P165","Unicorn Zirconia Blanks (ST White)","C_19","Lab Consumables","26523","3179",2
+"P166","Unicorn Zirconia Blanks (ST Pre-Shaded)","C_19","Lab Consumables","23742","22675",2
+"P167","BeSmile Aconia SHT 3D Multilayer Zirconia","C_19","Lab Consumables","6602","16705",2
+"P168","BeSmile Aconia HT+ White Zirconia","C_19","Lab Consumables","23921","42556",2
+"P169","BeSmile Aconia ST White Zirconia","C_19","Lab Consumables","9534","46865",2
+"P170","BeSmile Aconia ST Preshade Zirconia","C_19","Lab Consumables","14805","28603",2
+"P171","BeSmile Aconia SHT-Preshade Zirconia","C_19","Lab Consumables","24362","26111",2
+"P172","BeSmileStain/Glaze","C_19","Lab Consumables","3739","20362",2
+"P173","BeSmile ColoringLiquids","C_19","Lab Consumables","13755","2590",2
+"P174","Fastform FF-M140C Metal 3D Printer","C_20","Dental 3D printer","250000","835623",6
+"P175","Fastform DeskFab X1 Metal 3D Printer","C_20","Dental 3D printer","258745","453463",6
+"P176","Shining 3D AccuFab-L4K 3D Printer","C_20","Dental 3D printer","576803","656080",6
+"P177","Phrozen Sonic Mighty 4K 3D Printer","C_20","Dental 3D printer","305949","382321",6
+"P178","Phrozen Sonic Mighty 12K","C_20","Dental 3D printer","328076","320548",6
+"P179","Asiga Max 2Printer","C_20","Dental 3D printer","932828","771534",6
+"P180","Asiga The Ultra 3D Printer","C_20","Dental 3D printer","927127","534215",6
+"P181","GLB 200M Metal 3D Printer","C_20","Dental 3D printer","780731","1264800",6
+"P182","GLB 120M Metal 3D Printer","C_20","Dental 3D printer","639899","1289437",6
+"P183","Elegoo Saturn 3 Ultra 3D Printer","C_20","Dental 3D printer","716009","1167163",6
+"P184","Zotion F2 Dental Sintering Furnace","C_21","Dental Sintering Furnace","1160885","2057355",7
+"P185","KDF Zircom Sintering Furnace","C_21","Dental Sintering Furnace","610916","544995",7
+"P186","Mihmvogt Tabeo Dental Sintering Furnace","C_21","Dental Sintering Furnace","737410","2322339",7
+"P187","Woodpecker PT-3LED Scaler","C_22","Ultrasonic Scalers","37171","64445",4
+"P188","Woodpecker DTE U6LED Scaler","C_22","Ultrasonic Scalers","25561","18877",4
+"P189","Woodpecker DTE D7 LED Ultrasonic Scaler","C_22","Ultrasonic Scalers","32032","69397",4
+"P190","Woodpecker D5Scaler","C_22","Ultrasonic Scalers","39659","19130",4
+"P191","Inbuilt ScalerV3","C_22","Ultrasonic Scalers","44237","49401",4
+"P192","Woodpecker D3 Non-Optic Scaler","C_22","Ultrasonic Scalers","25828","51973",4
+"P193","LubriMax 5 Pro","C_23","Dental Handpiece Lubrication Machine","82518","51906",6
+"P194","TPC Handpiece Lubricating Unit","C_23","Dental Handpiece Lubrication Machine","70500","53690",6
+"P195","Dental RecordingSystem","C_24","Intraoral Camera","16632","48646",4
+"P196","All-in-One PC Intraoral Camera","C_24","Intraoral Camera","13477","31090",4
+"P197","Sony CCD Intraoral Camera","C_24","Intraoral Camera","23558","13997",4
+"P198","OraCam Wired HD Intraoral Camera","C_24","Intraoral Camera","12322","4862",4
+"P199","DentXpert Stimulator","C_25","Dental Stimulator","10556","70000",7
+"P200","Rubber Dam Kit  Paedo With 6 Clamps & Clamp Holder","C_26","Dental Instruments","80198","83406",4
+"P201","Rubber Dam Kit  With 11 Clamps & ClampHolder","C_26","Dental Instruments","95855","29832",4
+"P202","Impression Trays Set Of 8 (E-Dentulas-Non-Perforated)","C_26","Dental Instruments","89284","12623",8
+"P203","Composite Filling Instruments T.C. Blue Set Of 6Pcs","C_26","Dental Instruments","127712","32326",4
+"P204","Impression Trays Set Of 10 (Dentulas  Perforated)","C_26","Dental Instruments","46921","119486",8
+"P205","LUXATOMESET OF9 Pcs","C_26","Dental Instruments","40773","136483",4
+"P206","Crown & Bridge Remover Fully Automatic With 9 Tips","C_26","Dental Instruments","3539","196571",4
+"P207","COMPOSITE FILLING INSTRUMENTS T.C.GOLD","C_26","Dental Instruments","29729","130446",4
+"P209","CONSERVATIVE INSTRUMENTS KIT","C_26","Dental Instruments","34127","196560",4
+"P210","LUXATOME SET Of4 Pcs","C_26","Dental Instruments","27439","81264",4
+"P211","Diagnostic PMT Set Of 3 Pcs With Explorer D/E","C_26","Dental Instruments","74494","94756",4
+"P212","Diagnostic PMT Set Of 3 Pcs With Straight Probe S/E","C_26","Dental Instruments","147429","108607",4
+"P213","Root Elevators Set Of 9 Pcs With Cross Bar Elevators","C_26","Dental Instruments","28773","36385",4
+"P214","Root Elevators Set Of 13 Pcs (With Warwick James)","C_26","Dental Instruments","55373","94205",4
+"P215","Extraction Forceps Paedo Set of 7 Pcs","C_26","Dental Instruments","40731","14326",4
+"P216","Extraction Forceps Set Of 12pcs","C_26","Dental Instruments","121436","54875",4
+"P217","Extraction Forceps Set Of 14 Pcs","C_26","Dental Instruments","29901","29169",4
+"P218","CLINIC SET UP KIT 2 (Package-II)","C_26","Dental Instruments","106976","73790",4
+"P219","CLINIC SET UP KIT 1 (Package-I)","C_26","Dental Instruments","10640","68499",4
+"P220","Dental Recording System","C_27","Digital Magnification","250005","450000",5
+"P221","Yahope 3D-Optix","C_27","Digital Magnification","158965","547854",5

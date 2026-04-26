@@ -1,0 +1,496 @@
+Clinic_id,City,Clinic_size,Avg_patients_per_day,State
+Cl_1,Surat,Large,282,Gujarat
+Cl_2,Surat,Medium,206,Gujarat
+Cl_3,Chennai,Large,255,Tamilnadu
+Cl_4,Raipur,Large,297,Chhatisgarh
+Cl_5,Thane,Medium,165,Maharashtra
+Cl_6,Indore,Medium,230,Madhya Pradesh
+Cl_7,Muzzaffar Nagar,Small,102,Uttar Pradesh
+Cl_8,Rajkot,Large,284,Gujarat
+Cl_9,Bargarh,Medium,201,Odisha
+Cl_10,Kannur,Medium,226,Kerala
+Cl_11,Goregaon,Large,265,Maharashtra
+Cl_12,Varanasi,Medium,183,Uttar Pradesh
+Cl_13,Kurla,Small,82,Maharashtra
+Cl_14,Okhla,Large,298,Delhi
+Cl_15,Okhla,Small,98,Delhi
+Cl_16,Okhla,Medium,222,Delhi
+Cl_17,Ludhinana,Small,107,Punjab
+Cl_18,Rajkot,Medium,161,Gujarat
+Cl_19,Boriwali,Small,92,Maharashtra
+Cl_20,Kozhikode,Small,95,Kerala
+Cl_21,Thane,Small,97,Maharashtra
+Cl_22,Kannur,Medium,221,Kerala
+Cl_23,Ernakulam,Small,112,Kerala
+Cl_24,Pune,Large,279,Maharashtra
+Cl_25,Boriwali,Medium,200,Maharashtra
+Cl_26,Kannur,Large,257,Kerala
+Cl_27,Rohini,Large,263,Delhi
+Cl_28,Jalandhar,Large,286,Punjab
+Cl_29,Ropar,Small,115,Chandigarh
+Cl_30,Rajkot,Large,252,Gujarat
+Cl_31,Bhuveshwar,Small,108,Odisha
+Cl_32,Alappuzha,Small,107,Kerala
+Cl_33,Agra,Large,257,Uttar Pradesh
+Cl_34,Yamuna Nagar,Medium,215,Haryana
+Cl_35,Mumbai,Large,283,Maharashtra
+Cl_36,Malappuram,Medium,165,Kerala
+Cl_37,Belgaum,Small,107,Goa
+Cl_38,Navasari-Gujarat,Medium,224,Gujarat
+Cl_39,Salem,Large,291,Tamilnadu
+Cl_40,Tirupattur,Large,271,Tamilnadu
+Cl_41,Nerul,Medium,230,Maharashtra
+Cl_42,Sri Ganganagar,Small,94,Rajasthan
+Cl_43,Alappuzha,Small,100,Kerala
+Cl_44,Bhuj,Small,119,Gujarat
+Cl_45,Malappuram,Large,294,Kerala
+Cl_46,Lakhimpur-Up,Large,269,Uttar Pradesh
+Cl_47,Pune,Medium,160,Maharashtra
+Cl_48,Nashik,Large,254,Maharashtra
+Cl_49,Jalgaon,Large,283,Maharashtra
+Cl_50,Raipur,Large,262,Chhatisgarh
+Cl_51,Pathanamthitta,Large,297,Kerala
+Cl_52,Malappuram,Small,112,Kerala
+Cl_53,Malappuram,Medium,202,Kerala
+Cl_54,Varanasi,Small,91,Uttar Pradesh
+Cl_55,Belgaum,Medium,196,Goa
+Cl_56,Salem,Small,107,Tamilnadu
+Cl_57,Salem,Small,110,Tamilnadu
+Cl_58,Mallapuram,Medium,169,Kerala
+Cl_59,Yavatmal,Small,99,Maharashtra
+Cl_60,Ghatkopar,Small,95,Maharashtra
+Cl_61,Jaipur-Rajasthan,Large,284,Rajasthan
+Cl_62,Mumbai,Small,89,Maharashtra
+Cl_63,Jalna,Large,295,Maharashtra
+Cl_64,Chandigarh,Large,259,Chandigarh
+Cl_65,Erode,Medium,163,Tamilnadu
+Cl_66,Bhopal,Medium,202,Madhya Pradesh
+Cl_67,Raipur,Large,250,Chhatisgarh
+Cl_68,Washim,Small,92,Maharashtra
+Cl_69,Salem,Medium,174,Tamilnadu
+Cl_70,Dehradun,Large,251,Uttrakhand
+Cl_71,Gurugram,Large,271,Haryana
+Cl_72,Kottayam,Small,113,Kerala
+Cl_73,Kannur,Large,280,Kerala
+Cl_74,Palakkad,Medium,212,Kerala
+Cl_75,Nandagaon,Large,268,Maharashtra
+Cl_76,Durgapur,Small,91,West Bengal
+Cl_77,Malappuram,Medium,204,Kerala
+Cl_78,Rajkot,Medium,183,Gujarat
+Cl_79,Rewari,Large,300,Haryana
+Cl_80,Kolhapur,Medium,171,Maharashtra
+Cl_81,Hyderabad,Small,98,Telangana
+Cl_82,Bhopal,Medium,186,Madhya Pradesh
+Cl_83,Vile Parle,Large,274,Maharashtra
+Cl_84,Vasant Kunj,Medium,203,Delhi
+Cl_85,Kottayam,Small,117,Kerala
+Cl_86,Calicut,Small,92,Kerala
+Cl_87,Pune,Small,116,Maharashtra
+Cl_88,Ambala,Medium,206,Haryana
+Cl_89,Kottayam,Large,273,Kerala
+Cl_90,Rourkela,Small,88,Odisha
+Cl_91,Nagercoil,Large,267,Tamilnadu
+Cl_92,Ghaziabad,Medium,183,Uttar Pradesh
+Cl_93,Rajkot,Medium,206,Gujarat
+Cl_94,Pune,Small,84,Maharashtra
+Cl_95,Sangli,Medium,212,Maharashtra
+Cl_96,Guwahati,Large,245,Assam
+Cl_97,Seawood,Medium,200,Maharashtra
+Cl_98,Noida,Medium,184,Uttar Pradesh
+Cl_99,Malappuram,Large,241,Kerala
+Cl_100,Ludhinana,Large,280,Punjab
+Cl_101,Jalna,Large,294,Maharashtra
+Cl_102,Raipur,Large,254,Chhatisgarh
+Cl_103,Thane,Large,278,Maharashtra
+Cl_104,Aurangabad-Maharashtra,Small,109,Maharashtra
+Cl_105,Thane,Large,256,Maharashtra
+Cl_106,Bhuj,Medium,190,Gujarat
+Cl_107,Dhanbad,Small,119,Jharkhand
+Cl_108,Nashik,Small,85,Maharashtra
+Cl_109,Jalandhar,Large,284,Punjab
+Cl_110,Sanchore,Medium,167,Rajasthan
+Cl_111,Dehradun,Large,270,Uttar Pradesh
+Cl_112,Pimpri Chinchwad Nagar,Large,266,Maharashtra
+Cl_113,Mumbai,Large,267,Maharashtra
+Cl_114,Pollachi,Medium,201,Tamilnadu
+Cl_115,Raipur,Small,94,Chhatisgarh
+Cl_116,Sion,Small,117,Maharashtra
+Cl_117,Mahim Junction,Small,96,Maharashtra
+Cl_118,Aurangabad,Small,100,Maharashtra
+Cl_119,Raipur,Small,109,Chhatisgarh
+Cl_120,Latur,Small,120,Maharashtra
+Cl_121,Niligiris,Small,100,Tamilnadu
+Cl_122,Unaa,Small,96,Gujarat
+Cl_123,Kolhapur,Medium,162,Maharashtra
+Cl_124,Ernakulam,Small,80,Kerala
+Cl_125,Wayanad,Small,118,Kerala
+Cl_126,Bhopal,Medium,219,Madhya Pradesh
+Cl_127,Chennai,Large,289,Tamilnadu
+Cl_128,Cuddalore,Small,87,Tamilnadu
+Cl_129,Malappuram,Small,111,Kerala
+Cl_130,Hyderabad,Medium,196,Telangana
+Cl_131,Ghaziabad,Medium,175,Uttar Pradesh
+Cl_132,Hyderabad,Small,89,Telangana
+Cl_133,Malappuram,Large,270,Kerala
+Cl_134,Ahmedabad,Large,278,Gujarat
+Cl_135,Pune,Small,83,Maharashtra
+Cl_136,Malad,Small,97,Maharashtra
+Cl_137,Jaipur-Rajasthan,Large,283,Rajasthan
+Cl_138,Surat,Small,85,Gujarat
+Cl_139,Kolhapur,Medium,155,Maharashtra
+Cl_140,Kochi,Large,279,Kerala
+Cl_141,Indore,Medium,193,Madhya Pradesh
+Cl_142,Kochi,Large,292,Kerala
+Cl_143,Ludhinana,Medium,180,Punjab
+Cl_144,Bhopal,Medium,180,Madhya Pradesh
+Cl_145,Amritsar,Small,101,Punjab
+Cl_146,Bangalore (East & South),Medium,196,Karnataka
+Cl_147,Kollam,Large,271,Kerala
+Cl_148,Jalor,Large,265,Rajasthan
+Cl_149,Sangli,Small,120,Maharashtra
+Cl_150,Pune,Medium,209,Maharashtra
+Cl_151,Chandigarh,Large,259,Chandigarh
+Cl_152,Dhule,Medium,230,Maharashtra
+Cl_153,Karala,Medium,202,Delhi
+Cl_154,Rajkot,Medium,166,Gujarat
+Cl_155,Airoli,Medium,211,Maharashtra
+Cl_156,Pune,Medium,229,Maharashtra
+Cl_157,Malappuram,Small,87,Kerala
+Cl_158,Barnala,Large,288,Punjab
+Cl_159,Kanpur,Small,97,Uttar Pradesh
+Cl_160,Pimpri Chinchwad Nagar,Medium,184,Maharashtra
+Cl_161,Andheri,Small,88,Maharashtra
+Cl_162,Chennai,Large,275,Tamilnadu
+Cl_163,Ernakulam,Large,256,Kerala
+Cl_164,Vijaywada,Small,106,Andhra Pradesh
+Cl_165,Malkajgiri,Small,88,Telangana
+Cl_166,Bangaluru,Large,253,Karnataka
+Cl_167,Bangaluru,Large,294,Karnataka
+Cl_168,Pune,Small,102,Maharashtra
+Cl_169,Panvel,Small,99,Maharashtra
+Cl_170,Ahmedabad,Small,102,Gujarat
+Cl_171,Indore,Small,120,Madhya Pradesh
+Cl_172,Chennai,Small,112,Tamilnadu
+Cl_173,Chennai,Medium,163,Tamilnadu
+Cl_174,Kharghar,Medium,183,Maharashtra
+Cl_175,Shahdara,Large,274,Delhi
+Cl_176,Aurangabad,Large,240,Maharashtra
+Cl_177,Agra,Large,285,Uttar Pradesh
+Cl_178,Bali Nagar,Large,289,Delhi
+Cl_179,Ahmedabad,Small,105,Gujarat
+Cl_180,Hyderabad,Medium,184,Telangana
+Cl_181,Coimbatore,Large,255,Tamilnadu
+Cl_182,Agra,Large,283,Uttar Pradesh
+Cl_183,Jabalpur,Medium,198,Madhya Pradesh
+Cl_184,Rohini,Medium,202,Delhi
+Cl_185,Jaipur-Rajasthan,Medium,192,Rajasthan
+Cl_186,Hyderabad,Small,104,Telangana
+Cl_187,Shahdara,Medium,196,Delhi
+Cl_188,Anantapur,Medium,196,Andhra Pradesh
+Cl_189,Churu,Large,288,Rajasthan
+Cl_190,Nizamabad,Large,243,Andhra Pradesh
+Cl_191,Panchkula,Large,256,Chandigarh
+Cl_192,Mumbai,Small,118,Maharashtra
+Cl_193,Kolkata,Small,92,West Bengal
+Cl_194,Patna,Medium,191,Bihar
+Cl_195,Varanasi,Small,89,Uttar Pradesh
+Cl_196,Palani,Medium,193,Tamilnadu
+Cl_197,Dhanbad,Large,295,Jharkhand
+Cl_198,Pollachi,Medium,173,Tamilnadu
+Cl_199,Nawashaher,Medium,188,Punjab
+Cl_200,Kottayam,Small,118,Kerala
+Cl_201,Boriwali,Small,114,Maharashtra
+Cl_202,Guwahati,Small,120,Assam
+Cl_203,Ranchi,Large,276,Jharkhand
+Cl_204,Jamnagar,Medium,222,Gujarat
+Cl_205,Tagore Garden,Small,105,Delhi
+Cl_206,Kozhikode,Medium,189,Kerala
+Cl_207,Hyderabad,Small,103,Andhra Pradesh
+Cl_208,Bangaluru,Large,293,Karnataka
+Cl_209,Calicut,Medium,214,Kerala
+Cl_210,Cochin,Medium,224,Kerala
+Cl_211,Chennai,Medium,159,Tamilnadu
+Cl_212,Sirsa,Medium,176,Haryana
+Cl_213,Pune,Large,252,Maharashtra
+Cl_214,Faridkot,Large,244,Punjab
+Cl_215,Palakkad,Large,274,Kerala
+Cl_216,Jalandhar,Small,87,Punjab
+Cl_217,Salem,Small,117,Tamilnadu
+Cl_218,Greater Kailash-1,Small,81,Delhi
+Cl_219,Trivandrum,Small,92,Kerala
+Cl_220,Sabarkantha,Small,103,Gujarat
+Cl_221,Jalandhar,Small,104,Punjab
+Cl_222,Ahmedabad,Medium,183,Gujarat
+Cl_223,Agra,Medium,222,Uttar Pradesh
+Cl_224,Tirupathi,Large,292,Andhra Pradesh
+Cl_225,Hosur,Small,109,Tamilnadu
+Cl_226,Ranchi,Medium,180,Jharkhand
+Cl_227,Coimbatore,Medium,164,Tamilnadu
+Cl_228,Cochin,Medium,154,Kerala
+Cl_229,Nagercoil,Large,292,Tamilnadu
+Cl_230,Trivandrum,Large,258,Kerala
+Cl_231,Hathras,Small,103,Uttar Pradesh
+Cl_232,Jamnagar,Small,96,Gujarat
+Cl_233,Morbi,Medium,159,Gujarat
+Cl_234,Kandivali,Large,240,Maharashtra
+Cl_235,Mallapuram,Medium,155,Kerala
+Cl_236,Mohali,Large,275,Punjab
+Cl_237,Tiruvannamalai,Small,116,Tamilnadu
+Cl_238,Greater Kailash,Small,93,Delhi
+Cl_239,Agra,Small,100,Uttar Pradesh
+Cl_240,Madhurai,Medium,211,Tamilnadu
+Cl_241,Mohali,Small,118,Chandigarh
+Cl_242,Lucknow,Small,108,Uttar Pradesh
+Cl_243,Khar Road,Medium,162,Maharashtra
+Cl_244,Tirupur,Medium,201,Tamilnadu
+Cl_245,Rajkot,Large,253,Gujarat
+Cl_246,Vijaywada,Small,97,Andhra Pradesh
+Cl_247,Shahjahnpur,Small,97,Uttar Pradesh
+Cl_248,Tirupur,Large,285,Tamilnadu
+Cl_249,Salem,Medium,223,Tamilnadu
+Cl_250,Ludhinana,Large,267,Punjab
+Cl_251,Wayanad,Medium,201,Kerala
+Cl_252,Adilabad,Small,95,Andhra Pradesh
+Cl_253,Calicut,Medium,180,Kerala
+Cl_254,Sundargarh,Large,286,Odisha
+Cl_255,Calicut,Small,96,Kerala
+Cl_256,Raipur,Large,287,Chhatisgarh
+Cl_257,Palani,Small,102,Tamilnadu
+Cl_258,Mumbai,Small,90,Maharashtra
+Cl_259,Hyderabad,Large,256,Telangana
+Cl_260,Nawashaher,Small,80,Punjab
+Cl_261,Jaipur,Large,264,Rajasthan
+Cl_262,Jalandhar,Medium,200,Punjab
+Cl_263,Pondicherry,Small,94,Tamilnadu
+Cl_264,Hyderabad,Medium,183,Andhra Pradesh
+Cl_265,Trivandrum,Large,242,Kerala
+Cl_266,Mayiladurai,Small,115,Tamilnadu
+Cl_267,Latur,Large,274,Maharashtra
+Cl_268,Goa,Large,300,Goa
+Cl_269,Sikar,Large,297,Rajasthan
+Cl_270,Dharmapuri,Medium,194,Tamilnadu
+Cl_271,Ajmer,Medium,152,Rajasthan
+Cl_272,Bangalore,Small,103,Karnataka
+Cl_273,Pune,Medium,186,Maharashtra
+Cl_274,Paschim Vihar,Small,94,Delhi
+Cl_275,Chennai,Large,296,Tamilnadu
+Cl_276,Hyderabad,Medium,153,Telangana
+Cl_277,Dadar,Large,250,Maharashtra
+Cl_278,Gurugram,Small,95,Delhi
+Cl_279,Jhunjhunu,Large,293,Rajasthan
+Cl_280,Kozhikode,Medium,169,Kerala
+Cl_281,Attur,Medium,199,Tamilnadu
+Cl_282,Sri Ganganagar,Medium,163,Rajasthan
+Cl_283,Sivakasi,Medium,154,Tamilnadu
+Cl_284,Silchar,Small,103,Assam
+Cl_285,Chandigarh,Medium,199,Chandigarh
+Cl_286,Karkardooma,Small,109,Delhi
+Cl_287,Karur,Small,100,Tamilnadu
+Cl_288,Zirakpur,Small,82,Chandigarh
+Cl_289,Malappuram,Large,279,Kerala
+Cl_290,Rishikesh,Medium,182,Uttar Pradesh
+Cl_291,Chennai,Small,111,Tamilnadu
+Cl_292,Tiruchiirappalli,Medium,160,Tamilnadu
+Cl_293,Kottayam,Large,258,Kerala
+Cl_294,Meerut,Small,89,Uttar Pradesh
+Cl_295,Gwalior,Medium,210,Madhya Pradesh
+Cl_296,Coimbatore,Large,285,Tamilnadu
+Cl_297,Thane,Medium,182,Maharashtra
+Cl_298,Nirman Vihar,Large,243,Delhi
+Cl_299,Ghaziabad,Small,110,Delhi
+Cl_300,Hathras,Large,241,Uttar Pradesh
+Cl_301,Mysuru,Small,85,Karnataka
+Cl_302,Trivandrum,Large,253,Kerala
+Cl_303,Kottayam,Small,88,Kerala
+Cl_304,Goa,Small,89,Goa
+Cl_305,Hyderabad,Large,294,Telangana
+Cl_306,Belgaum,Small,111,Karnataka
+Cl_307,Jamnagar,Large,288,Gujarat
+Cl_308,Hyderabad,Small,87,Andhra Pradesh
+Cl_309,Hyderabad,Medium,168,Andhra Pradesh
+Cl_310,Faridabad,Large,287,Haryana
+Cl_311,Ramanathapuram,Small,120,Tamilnadu
+Cl_312,Patna,Large,295,Bihar
+Cl_313,Jalandhar,Large,296,Punjab
+Cl_314,Thrissur,Medium,208,Kerala
+Cl_315,Kozhikode,Small,104,Kerala
+Cl_316,Gurugram,Small,118,Haryana
+Cl_317,Thane,Medium,204,Maharashtra
+Cl_318,Ranchi,Small,106,Jharkhand
+Cl_319,Bhuveshwar,Large,298,Odisha
+Cl_320,Vishakhapatnam,Large,288,Andhra Pradesh
+Cl_321,Coimbatore,Small,85,Tamilnadu
+Cl_322,Hyderabad,Medium,226,Telangana
+Cl_323,Erode,Medium,171,Tamilnadu
+Cl_324,Bangaluru,Small,115,Karnataka
+Cl_325,Ghaziabad,Large,240,Uttar Pradesh
+Cl_326,Erode,Medium,203,Tamilnadu
+Cl_327,Mumbai,Medium,182,Maharashtra
+Cl_328,Coimbatore,Small,104,Tamilnadu
+Cl_329,Pondicherry,Small,85,Tamilnadu
+Cl_330,Coimbatore,Large,276,Tamilnadu
+Cl_331,Saket,Large,278,Delhi
+Cl_332,Guntur,Small,105,Andhra Pradesh
+Cl_333,Ranchi,Medium,193,Jharkhand
+Cl_334,Panchsheel Park,Large,240,Delhi
+Cl_335,Shahjahnpur,Small,116,Uttar Pradesh
+Cl_336,Ranchi,Large,272,Jharkhand
+Cl_337,Jalandhar,Small,85,Punjab
+Cl_338,Hyderabad,Large,270,Telangana
+Cl_339,Amritsar,Small,101,Punjab
+Cl_340,Madhurai,Small,114,Tamilnadu
+Cl_341,Mangaluru,Small,104,Karnataka
+Cl_342,Vijaywada,Small,86,Andhra Pradesh
+Cl_343,Hyderabad,Large,257,Andhra Pradesh
+Cl_344,Coimbatore,Small,110,Tamilnadu
+Cl_345,Kolkata,Large,268,West Bengal
+Cl_346,Janak Puri,Small,85,Delhi
+Cl_347,Moradabad,Medium,173,Uttar Pradesh
+Cl_348,Vishakhapatnam,Small,106,Andhra Pradesh
+Cl_349,Bhavnagar,Medium,182,Gujarat
+Cl_350,Dehradun,Medium,196,Uttrakhand
+Cl_351,Kakinada,Large,276,Andhra Pradesh
+Cl_352,Ludhinana,Large,275,Punjab
+Cl_353,Ranchi,Medium,151,Jharkhand
+Cl_354,Bangaluru,Medium,221,Karnataka
+Cl_355,Kapurthala,Medium,209,Punjab
+Cl_356,Agra,Large,245,Uttar Pradesh
+Cl_357,Dharmapuri,Large,287,Tamilnadu
+Cl_358,Cochin,Large,247,Kerala
+Cl_359,Rajkot,Small,88,Gujarat
+Cl_360,Idukki,Large,297,Kerala
+Cl_361,Coimbatore,Medium,229,Tamilnadu
+Cl_362,Tirupur,Medium,205,Tamilnadu
+Cl_363,Trivandrum,Large,292,Kerala
+Cl_364,Trivandrum,Medium,163,Kerala
+Cl_365,Palakkad,Medium,215,Kerala
+Cl_366,Kottayam,Small,106,Kerala
+Cl_367,Guntur,Small,85,Andhra Pradesh
+Cl_368,Pollachi,Medium,182,Tamilnadu
+Cl_369,Chennai,Large,269,Tamilnadu
+Cl_370,Ycity,Medium,207,YSTATE
+Cl_371,Ahemadabad,Small,93,Gujarat
+Cl_372,Mangaluru,Medium,202,Karnataka
+Cl_373,Oddanchatram,Large,300,Tamilnadu
+Cl_374,Coimbatore,Large,272,Tamilnadu
+Cl_375,Coimbatore,Large,254,Tamilnadu
+Cl_376,Erode,Small,118,Tamilnadu
+Cl_377,Trichy,Small,96,Tamilnadu
+Cl_378,Tirupur,Medium,192,Tamilnadu
+Cl_379,Salem,Small,80,Tamilnadu
+Cl_380,Coimbatore,Small,100,Tamilnadu
+Cl_381,Salem,Medium,191,Tamilnadu
+Cl_382,Bangaluru,Small,81,Karnataka
+Cl_383,Coimbatore,Medium,224,Tamilnadu
+Cl_384,Cochin,Large,250,Kerala
+Cl_385,Theni,Small,110,Tamilnadu
+Cl_386,Guntur,Medium,164,Andhra Pradesh
+Cl_387,Khammam,Small,108,Andhra Pradesh
+Cl_388,Nagercoil,Large,243,Tamilnadu
+Cl_389,Madhurai,Medium,155,Tamilnadu
+Cl_390,Chennai,Medium,187,Tamilnadu
+Cl_391,Pathanamthitta,Medium,194,Kerala
+Cl_392,Namakkal,Medium,179,Tamilnadu
+Cl_393,Nagercoil,Medium,166,Tamilnadu
+Cl_394,Calicut,Large,246,Kerala
+Cl_395,Lucknow,Small,86,Uttar Pradesh
+Cl_396,Rajkot,Large,299,Gujarat
+Cl_397,Rajkot,Small,110,Gujarat
+Cl_398,Mumbai,Medium,173,Maharashtra
+Cl_399,Kurnool,Small,99,Andhra Pradesh
+Cl_400,Gurugram,Small,94,Delhi
+Cl_401,Gurugram,Small,97,Delhi
+Cl_402,Gurugram,Small,95,Delhi
+Cl_403,Gurugram,Large,271,Delhi
+Cl_404,Gurugram,Small,91,Delhi
+Cl_405,Thiruvananthpuram,Small,106,Kerala
+Cl_406,Mallapuram,Medium,223,Kerala
+Cl_407,Mallapuram,Small,88,Kerala
+Cl_408,Hyderabad,Medium,168,Telangana
+Cl_409,Sanpada,Medium,177,Maharashtra
+Cl_410,Pune,Small,93,Maharashtra
+Cl_411,Gurugram,Large,244,Haryana
+Cl_412,Vidhyadhar Nagar-Jaipur,Medium,217,Rajasthan
+Cl_413,Goa,Medium,200,Goa
+Cl_414,Hyderabad,Medium,187,Andhra Pradesh
+Cl_415,Vadodra,Large,261,Gujarat
+Cl_416,Itarsi,Medium,160,Madhya Pradesh
+Cl_417,Pune,Small,92,Maharashtra
+Cl_418,Koparkhairne,Medium,221,Maharashtra
+Cl_419,Hyderabad,Large,293,Andhra Pradesh
+Cl_420,Parbhani,Small,117,Maharashtra
+Cl_421,Thiruvananthpuram,Small,91,Kerala
+Cl_422,Santacruz,Small,93,Maharashtra
+Cl_423,Kottayam,Small,120,Kerala
+Cl_424,Pune,Large,296,Maharashtra
+Cl_425,Chennai,Large,269,Tamilnadu
+Cl_426,Faridabad,Small,108,Delhi
+Cl_427,Hyderabad,Small,94,Telangana
+Cl_428,Trivandrum,Small,116,Kerala
+Cl_429,Trivandrum,Medium,204,Kerala
+Cl_430,Mulund,Small,89,Maharashtra
+Cl_431,Kapurthala,Small,105,Punjab
+Cl_432,Kurla,Large,256,Maharashtra
+Cl_433,Wazirpur,Small,89,Delhi
+Cl_434,Wazirpur,Large,248,Delhi
+Cl_435,Wazirpur,Large,258,Delhi
+Cl_436,Srinagar,Small,115,Jammu & Kashmir
+Cl_437,Gandhi Nagar City,Medium,150,Gujarat
+Cl_438,Erode,Medium,230,Tamilnadu
+Cl_439,Virudhunagar,Small,109,Tamilnadu
+Cl_440,Ghaziabad,Small,107,Uttar Pradesh
+Cl_441,Ghaziabad,Small,91,Uttar Pradesh
+Cl_442,Agra,Large,270,Uttar Pradesh
+Cl_443,Chhindwara (M.P.),Medium,165,Madhya Pradesh
+Cl_444,Indore,Medium,214,Madhya Pradesh
+Cl_445,Erode,Small,101,Tamilnadu
+Cl_446,Erode,Large,256,Tamilnadu
+Cl_447,Erode,Small,80,Tamilnadu
+Cl_448,Visakhapatnam,Large,287,Andhra Pradesh
+Cl_449,Coimbatore,Medium,172,Tamilnadu
+Cl_450,Hyderabad,Medium,214,Andhra Pradesh
+Cl_451,Tirupathi,Large,250,Andhra Pradesh
+Cl_452,Kakinada,Large,275,Andhra Pradesh
+Cl_453,Kakinada,Large,261,Andhra Pradesh
+Cl_454,Kandivali,Medium,185,Maharashtra
+Cl_455,Siliguri,Large,242,West Bengal
+Cl_456,Amritsar,Large,268,Punjab
+Cl_457,Salem,Medium,202,Tamilnadu
+Cl_458,Chennai,Medium,151,Tamilnadu
+Cl_459,Jammu,Medium,202,Punjab
+Cl_460,Ranchi,Large,250,Jharkhand
+Cl_461,Thoothukkudi,Small,117,Tamilnadu
+Cl_462,Chennai,Small,101,Tamilnadu
+Cl_463,Chennai,Small,88,Tamilnadu
+Cl_464,Safdarjung Development Area,Small,109,Delhi
+Cl_465,Safdarjung Development Area,Medium,185,Delhi
+Cl_466,Thane,Large,297,Maharashtra
+Cl_467,Hardoi,Large,241,Uttar Pradesh
+Cl_468,Thrissur,Large,284,Kerala
+Cl_469,Ernakulam,Medium,183,Kerala
+Cl_470,Sirsa,Medium,157,Haryana
+Cl_471,Agra,Medium,171,Uttar Pradesh
+Cl_472,Thane,Small,105,Maharashtra
+Cl_473,Panipat,Small,119,Haryana
+Cl_474,Namakkal,Small,93,Tamilnadu
+Cl_475,Ernakulam,Large,245,Kerala
+Cl_476,Calicut,Small,119,Kerala
+Cl_477,Chennai,Small,90,Tamilnadu
+Cl_478,Maledives,Small,105,Overseas
+Cl_479,Kozhikode,Large,290,Kerala
+Cl_480,Jaipur-Rajasthan,Small,81,Rajasthan
+Cl_481,Gurugram,Large,244,Delhi
+Cl_482,Jangpura Extension,Medium,195,Delhi
+Cl_483,Trivandrum,Medium,224,Kerala
+Cl_484,Patel Nagar,Medium,226,Delhi
+Cl_485,Haridwar,Medium,165,Uttrakhand
+Cl_486,Karol Bagh,Medium,195,Delhi
+Cl_487,Kozhikode,Small,106,Kerala
+Cl_488,Moradabad,Small,105,Uttar Pradesh
+Cl_489,Meerut,Small,80,Uttar Pradesh
+Cl_490,Malappuram,Small,117,Kerala
+Cl_491,Mayiladurai,Large,287,Tamilnadu
+Cl_492,Jamshedpur,Medium,154,Jharkhand
+Cl_493,Thane,Small,106,Maharashtra
+Cl_494,Vile Parle,Small,103,Maharashtra
+Cl_495,Uttam Nagar,Large,253,Delhi
