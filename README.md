@@ -56,19 +56,18 @@ The Unicorn Denmart Business Performance Dashboard is an end-to-end data analyti
 
 📸 Dashboard Preview
 ![Dashboard Overview](Overview.png)
-
-
-
+![Clinic_insights](Clinic_insights.png)
+![Product_performance](Product_performance.png)
+![Inventory_Analysis](Inventory_Analysis.png)
+![Delivery-performance](Delivery-performance.png)
 
 💡 Business Impact
-
 This dashboard helps businesses:
-
-Improve inventory planning
-Reduce delivery delays
-Increase customer satisfaction
-Make data-driven operational decisions
+- Improve inventory planning
+- Reduce delivery delays
+- Increase customer satisfaction
+- Make data-driven operational decisions
 
 👩‍💻 Author
 Rashmi Sharma
-Aspiring Data Analyst | Skilled in SQL, Python, Power BI
+Data Analyst | Skilled in SQL, Python, Power BI
