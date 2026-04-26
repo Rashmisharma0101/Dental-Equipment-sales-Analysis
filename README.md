@@ -55,7 +55,8 @@ The Unicorn Denmart Business Performance Dashboard is an end-to-end data analyti
 - Explore different dashboard pages
 
 📸 Dashboard Preview
-![Dashboard Overview]
+![Dashboard Overview](Overview.png)
+
 
 
 
